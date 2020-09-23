@@ -15,7 +15,7 @@ $ python
 Python 3.8.5 (tags/v3.8.5:580fbb0, Jul 20 2020, 15:43:08) [MSC v.1926 32 bit (Intel)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 ```
-ex. `pywin32‑228‑cp39‑cp39‑win_amd64.whl` for a 64 bit Python 3.9.x
+ex. `pywin32‑228‑cp38‑cp38‑win32.whl` for a 32 bit Python 3.8.x
 
 Install the downloaded wheel with\
 `python -m pip install WHL_FILE.whl`
