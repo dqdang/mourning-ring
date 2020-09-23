@@ -1,2 +1,0 @@
-pywin32==228
-pyWinhook==1.6.2
