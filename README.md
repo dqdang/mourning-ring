@@ -19,3 +19,6 @@ ex. `pywin32‑228‑cp38‑cp38‑win32.whl` for a 32 bit Python 3.8.x
 
 Install the downloaded wheel with\
 `python -m pip install WHL_FILE.whl`
+
+## How to run:
+`python mourning_ring.py`
