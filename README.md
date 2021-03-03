@@ -9,7 +9,7 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/#pywinhook
 
 ## Notes
 
-Download the wheel for your version of Python and 32/64 bit CPU. You can check if you open a Python interpreter and check the output of the header:
+Download the wheel for your version of Python and 32/64 bit CPU. You can check the version if you open a Python interpreter:
 ```
 $ python
 Python 3.8.5 (tags/v3.8.5:580fbb0, Jul 20 2020, 15:43:08) [MSC v.1926 32 bit (Intel)] on win32
